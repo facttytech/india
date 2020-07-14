@@ -1,0 +1,5 @@
+https://towardsdatascience.com/real-time-face-mask-detector-with-tensorflow-keras-and-opencv-38b552660b64
+
+https://www.leewayhertz.com/face-mask-detection-system/
+
+https://ieeexplore.ieee.org/document/8888092
